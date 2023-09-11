@@ -20,4 +20,3 @@ fetch(`${apiUrl}/search.php?s=chicken`)
   .catch((error) => {
     console.error(error);
   });
-
